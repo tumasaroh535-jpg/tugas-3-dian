@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>LKPD 3-Tabe</title>
+    </head>
+    <body style="background-color: lightskyblue;">
+        <h2 style="color: blue;">Table Piket X ACP</h2>
+        <table border="1">
+            <tr> 
+               <th rowspan="2">Hari</th>
+               <th colspan="2">Tugas Piket</th>
+               
+            </tr>
+            <tr>
+               <th>menyapu</th>
+               <th>menghapus papan</th>
+            </tr>
+            <tr>
+                <th>Senin</th>
+                <th>kira</th>
+                <th>bianca</th>
+            </tr>
+            <tr>
+                <th>Selasa</th>
+                <th>tio</th>
+                <th>niko</th>
+            </tr>
+            <tr>
+                <th>Rabu</th>
+                <th>aira</th>
+                <th>amel</th>
+            </tr>
+            <tr>
+                <th>Kamis</th>
+                <th>ica</th>
+                <th>dani</th>
+            </tr>
+            <tr>
+                <th>Jum'at</th>
+                <th>vino</th>
+                <th>adit</th>
+        </tr>
+        </table>
+    </body>
+</html>
